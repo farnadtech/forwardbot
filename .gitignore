@@ -1,0 +1,25 @@
+# فایل‌های محیطی
+.env
+
+# کش پایتون
+__pycache__/
+*.py[cod]
+*$py.class
+
+# فایل‌های نشست تلگرام
+*.session
+*.session-journal
+
+# محیط مجازی
+venv/
+env/
+ENV/
+
+# فایل‌های لاگ
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
